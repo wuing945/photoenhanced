@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+runtime/
+work/
+results/
+settings.json
+settings.tmp
+*.log
+*.zip
+.env
+.env.*

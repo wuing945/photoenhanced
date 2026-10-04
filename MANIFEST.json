@@ -1,0 +1,15 @@
+{
+  "version": "3.0",
+  "platform": "Windows x64",
+  "models": {
+    "face_landmarker.task": {
+      "bytes": 3758596,
+      "sha256": "64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff"
+    },
+    "selfie_multiclass.tflite": {
+      "bytes": 16371837,
+      "sha256": "c6748b1253a99067ef71f7e26ca71096cd449baefa8f101900ea23016507e0e0"
+    }
+  },
+  "runtime": "Python 3.13.14"
+}
